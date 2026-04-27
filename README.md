@@ -1,5 +1,6 @@
 <!-- Header -->
 <div align="center">
+
 [![Pixel Header](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=80&lines=TIRADA+DAWG)](https://git.io/typing-svg)
 
 *`still figuring things out, one bug at a time 🐛`*
