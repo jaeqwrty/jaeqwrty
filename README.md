@@ -45,7 +45,7 @@ status:      "learning by doing 🚀"
 **[ Backend, Data & Cloud ]**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=python,php,mysql,firebase,supabase" />
 </p>
 
 </div>
