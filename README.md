@@ -5,8 +5,6 @@
 
 *`still figuring things out, one bug at a time 🐛`*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=One+Lûv)](https://git.io/typing-svg)
-
 </div>
 
 ---
