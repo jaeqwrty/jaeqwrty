@@ -47,17 +47,6 @@ status:      "learning by doing 🚀"
 </p>
 
 </div>
-
----
-
-## `> uptime`
-
-```
-currently running on:  caffeine + curiosity
-known bugs:            too many side projects
-last deploy:           right now
-```
-
 ---
 
 <div align="center">
