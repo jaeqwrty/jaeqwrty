@@ -47,7 +47,6 @@ status:      "learning by doing 🚀"
 </p>
 
 </div>
----
 
 <div align="center">
 
