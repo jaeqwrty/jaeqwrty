@@ -26,7 +26,7 @@ status:      "na bisaya"
 ```json
 {
   "mobile_and_frontend": ["Flutter", "Dart", "React", "Tailwind", "HTML", "CSS"],
-  "backend_and_data":    ["Python", "PHP", "MySQL", "Firebase"]
+  "backend_and_data":    ["Python", "PHP", "MySQL", "Firebase", "Supabase"]
 }
 ```
 
