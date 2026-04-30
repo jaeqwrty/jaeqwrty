@@ -18,7 +18,7 @@ interests:
   - Mobile Apps (Flutter)
   - Machine Learning
   - Things that move & think
-status:      "learning by doing 🚀"
+status:      "na bisaya"
 ```
 
 ---
