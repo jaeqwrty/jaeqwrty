@@ -50,8 +50,6 @@ status:      "na bisaya"
 
 <div align="center">
 
-*`// the best way to learn is to build something broken, then fix it`*
-
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&left_color=black&right_color=cyan)
 
 </div>
