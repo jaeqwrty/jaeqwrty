@@ -5,8 +5,6 @@
 
 </div>
 
----
-
 ## `> whoami`
 
 ```yaml
