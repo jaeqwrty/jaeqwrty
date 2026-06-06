@@ -33,7 +33,7 @@ status:      "na bisaya"
 **[ Mobile & Frontend ]**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,tailwind,html,css,javascript" />
 </p>
 
 **[ Backend, Data & Cloud ]**
