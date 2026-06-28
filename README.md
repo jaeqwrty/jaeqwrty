@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-[![Pixel Header](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=80&lines=TIRADA+DAWG)](https://git.io/typing-svg)
+[![Pixel Header](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=80&lines=Hilu+pue)](https://git.io/typing-svg)
 
 </div>
 
