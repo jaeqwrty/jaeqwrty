@@ -1,57 +1,63 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Hilu!+%E2%9C%A8;Mobile+Dev+%26+ML+Enthusiast+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95;Let's+build+something+cool+%F0%9F%98%84" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00E5&height=200&section=header&text=Hey,%20I'm%20Hilu%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Dev%20%7C%20ML%20Tinkerer%20%7C%20Coffee-Powered&descAlignY=55&descSize=18" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code+%E2%98%95;Building+things+that+move+%26+think+%F0%9F%A4%96;Always+down+to+vibe+%26+collab+%F0%9F%8E%89" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-### 🌟 About Me
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-- 🚀 Student Developer on a mission to build cool stuff
-- 📱 Big fan of **Flutter** — mobile apps are my playground
-- 🧠 Dabbling in **Machine Learning**, teaching computers to think
-- 🌴 Based in sunny Davao, Philippines
-- ⚡ Fueled by curiosity, caffeine, and way too many side projects
-- 🎉 Always down to learn, build, and vibe with fellow devs
+### ⚡ Quick Hits
 
-<br>
+```yaml
+🚀 role:      Student Developer
+📱 playground: Flutter & Dart
+🧠 obsession: Machine Learning
+🌴 base:      Davao, Philippines
+⚡ fuel:      curiosity + caffeine
+```
 
-### 🛠️ My Toolbox
+</td>
+<td valign="top" width="50%">
 
-**Frontend & Mobile**
+### 🎯 Currently
 
-<div align="center">
+- 🔭 Building mobile apps that don't suck
+- 🌱 Leveling up in ML, one model at a time
+- 👯 Down to collab on anything fun
+- 💬 Hit me up — always happy to nerd out
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,tailwind,html,css,javascript" />
-
-</div>
-
-**Backend & Data**
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,php,mysql,firebase,supabase" />
-
-</div>
-
-<br>
-
-### 📈 By The Numbers
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jaeqwrty&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeqwrty&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
 <div align="center">
 
-### 🎈 Thanks for stopping by — come back soon!
+## 🎨 Frontend & Mobile
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=jaeqwrty.jaeqwrty&left_color=black&right_color=cyan)
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,tailwind,html,css,javascript&theme=dark" />
+
+## ⚙️ Backend & Data
+
+<img src="https://skillicons.dev/icons?i=python,php,mysql,firebase,supabase&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🎈 Thanks for stopping by — leave a ⭐ if you vibe with this!
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=jaeqwrty.jaeqwrty&left_color=%2300F7FF&right_color=%23FF00E5&left_text=welcome" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F7FF&height=100&section=footer" width="100%" />
 
 </div>
