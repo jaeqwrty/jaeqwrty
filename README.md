@@ -1,21 +1,23 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hilu;Student+Developer;Building+things+that+move+%26+think" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Hilu!+%E2%9C%A8;Mobile+Dev+%26+ML+Enthusiast+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95;Let's+build+something+cool+%F0%9F%98%84" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-### About Me
+### 🌟 About Me
 
-- Student Developer with a focus on **Mobile Applications** and **Machine Learning**
-- Based in Davao, Philippines
-- Passionate about building intelligent, user-focused products
-- Always learning, always building
+- 🚀 Student Developer on a mission to build cool stuff
+- 📱 Big fan of **Flutter** — mobile apps are my playground
+- 🧠 Dabbling in **Machine Learning**, teaching computers to think
+- 🌴 Based in sunny Davao, Philippines
+- ⚡ Fueled by curiosity, caffeine, and way too many side projects
+- 🎉 Always down to learn, build, and vibe with fellow devs
 
 <br>
 
-### Tech Stack
+### 🛠️ My Toolbox
 
 <div align="center">
 
@@ -25,7 +27,7 @@
 
 <br>
 
-### GitHub Stats
+### 📈 By The Numbers
 
 <div align="center">
 
@@ -37,6 +39,8 @@
 <br>
 
 <div align="center">
+
+### 🎈 Thanks for stopping by — come back soon!
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&left_color=black&right_color=cyan)
 
