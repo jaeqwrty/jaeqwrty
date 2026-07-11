@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Jay!+%E2%9C%A8;Mobile+Dev+%26+ML+Enthusiast+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95;Let's+build+something+cool+%F0%9F%98%84" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Hilu!+%E2%9C%A8;Mobile+Dev+%26+ML+Enthusiast+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95;Let's+build+something+cool+%F0%9F%98%84" alt="Typing SVG" />
 
 </div>
 
@@ -19,9 +19,19 @@
 
 ### 🛠️ My Toolbox
 
+**Frontend & Mobile**
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,tailwind,html,css,javascript,python,php,mysql,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,tailwind,html,css,javascript" />
+
+</div>
+
+**Backend & Data**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,php,mysql,firebase,supabase" />
 
 </div>
 
@@ -32,7 +42,7 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaeqwrty&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?jaeqwrty=jaeqwrty&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeqwrty&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -42,6 +52,6 @@
 
 ### 🎈 Thanks for stopping by — come back soon!
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&left_color=black&right_color=cyan)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=jaeqwrty.jaeqwrty&left_color=black&right_color=cyan)
 
 </div>
