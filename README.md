@@ -1,51 +1,43 @@
-<!-- Header -->
 <div align="center">
 
-[![Pixel Header](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=80&lines=Hilu+pue)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hilu;Student+Developer;Building+things+that+move+%26+think" alt="Typing SVG" />
 
 </div>
 
-## `> whoami`
+<br>
 
-```yaml
-name:        "still figuring it out"
-role:        Student Developer
-interests:
-  - Mobile Apps (Flutter)
-  - Machine Learning
-  - Things that move & think
-status:      "na bisaya"
-```
+### About Me
 
----
+- Student Developer with a focus on **Mobile Applications** and **Machine Learning**
+- Based in Davao, Philippines
+- Passionate about building intelligent, user-focused products
+- Always learning, always building
 
-## `> cat tech_stack.json`
+<br>
 
-```json
-{
-  "mobile_and_frontend": ["Flutter", "Dart", "React", "Tailwind", "HTML", "CSS"],
-  "backend_and_data":    ["Python", "PHP", "MySQL", "Firebase", "Supabase"]
-}
-```
+### Tech Stack
 
 <div align="center">
 
-**[ Mobile & Frontend ]**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,tailwind,html,css,javascript" />
-</p>
-
-**[ Backend, Data & Cloud ]**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,php,mysql,firebase,supabase" />
-</p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,tailwind,html,css,javascript,python,php,mysql,firebase,supabase" />
 
 </div>
 
+<br>
+
+### GitHub Stats
+
 <div align="center">
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&left_color=black&right_color=cyan)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&left_color=black&right_color=cyan)
 
 </div>
