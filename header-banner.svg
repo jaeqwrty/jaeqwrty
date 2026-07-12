@@ -1,0 +1,44 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="50%" stop-color="#111111"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#3a2f00" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="grayscale">
+      <feColorMatrix type="saturate" values="0"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#glow)"/>
+
+  <!-- Large watermark bat sitting behind the name -->
+  <image href="https://em-content.zobj.net/source/microsoft-teams/363/bat_1f987.png"
+         x="400" y="10" width="400" height="400"
+         filter="url(#grayscale)" opacity="0.16"/>
+
+  <!-- Top and bottom gold hairlines -->
+  <rect x="0" y="0" width="1200" height="3" fill="#FFD700" opacity="0.7"/>
+  <rect x="0" y="317" width="1200" height="3" fill="#FFD700" opacity="0.7"/>
+
+  <!-- Name -->
+  <text x="600" y="160" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-weight="bold"
+        font-size="72" letter-spacing="10"
+        fill="#FFD700" stroke="#000000" stroke-width="2" paint-order="stroke">
+    JAY ESMALLA
+  </text>
+
+  <!-- Subtitle -->
+  <text x="600" y="205" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif" font-weight="bold"
+        font-size="20" letter-spacing="9"
+        fill="#C9A227">
+    STUDENT DEVELOPER
+  </text>
+</svg>
