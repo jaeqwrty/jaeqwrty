@@ -9,18 +9,31 @@
       <stop offset="0%" stop-color="#3a2f00" stop-opacity="0.55"/>
       <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
     </radialGradient>
-    <filter id="grayscale">
-      <feColorMatrix type="saturate" values="0"/>
-    </filter>
   </defs>
 
   <rect width="1200" height="320" fill="url(#bg)"/>
   <rect width="1200" height="320" fill="url(#glow)"/>
 
-  <!-- Large watermark bat sitting behind the name -->
-  <image href="https://em-content.zobj.net/source/microsoft-teams/363/bat_1f987.png"
-         x="400" y="10" width="400" height="400"
-         filter="url(#grayscale)" opacity="0.16"/>
+  <!-- Big watermark bat, hand-drawn (no external assets) -->
+  <g transform="translate(600,140) scale(4.2)" fill="#FFD700" opacity="0.22">
+    <ellipse cx="0" cy="0" rx="10" ry="16"/>
+    <path d="M -8,-14 L -14,-28 L -2,-18 Z"/>
+    <path d="M 8,-14 L 14,-28 L 2,-18 Z"/>
+    <path d="M -8,-6
+             C -30,-30 -60,-34 -95,-20
+             C -80,-14 -85,-6 -100,-2
+             C -82,2 -84,10 -98,16
+             C -78,14 -76,20 -86,30
+             C -60,20 -40,14 -14,10
+             Z"/>
+    <path d="M 8,-6
+             C 30,-30 60,-34 95,-20
+             C 80,-14 85,-6 100,-2
+             C 82,2 84,10 98,16
+             C 78,14 76,20 86,30
+             C 60,20 40,14 14,10
+             Z"/>
+  </g>
 
   <!-- Top and bottom gold hairlines -->
   <rect x="0" y="0" width="1200" height="3" fill="#FFD700" opacity="0.7"/>
