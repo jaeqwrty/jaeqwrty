@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1A1A1A,100:000000&height=230&section=header&text=JAY%20ESMALLA&fontSize=55&fontColor=FFD700&animation=twinkling&fontAlignY=35&desc=Student%20Developer&descAlignY=60&descSize=20&descColor=FFD700" width="100%" />
+<img src="assets/header-banner.svg" width="100%" />
 
-<img src="https://em-content.zobj.net/source/microsoft-teams/363/bat_1f987.png" width="150" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Butcherman&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Mobile+Developer;Machine+Learning+Enthusiast;Based+in+Davao%2C+Philippines;Always+building+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Butcherman&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Mobile+Developer;Machine+Learning+Enthusiast;Based+in+Davao%2C+Philippines;Always+building+something+new" alt="Typing SVG" />
 
 </div>
 
@@ -62,8 +60,8 @@ base:         Davao, Philippines
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=jaeqwrty.jaeqwrty&left_color=%23000000&right_color=%23FFD700&left_text=profile%20views" />
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1A1A1A,100:000000&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="assets/footer-banner.svg" width="100%" />
 
 </div>
