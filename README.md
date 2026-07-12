@@ -3,10 +3,6 @@
 <img src="header-banner.svg" width="100%" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:000000&height=3&width=100%" />
-
-<br>
-
 <table align="center">
 <tr>
 <td valign="top" width="50%">
