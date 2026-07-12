@@ -56,10 +56,10 @@ base:         Davao, Philippines
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:000000&height=3&width=100%" />
+
+<div align="center">
+
 <img src="https://visitor-badge.laobi.icu/badge?page_id=jaeqwrty.jaeqwrty&left_color=%23000000&right_color=%23FFD700&left_text=profile%20views" />
-
-<br><br>
-
-<img src="footer-banner.svg" width="100%" />
 
 </div>
