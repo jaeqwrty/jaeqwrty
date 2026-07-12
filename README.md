@@ -6,6 +6,10 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:000000&height=3&width=100%" />
+
+<br>
+
 <table align="center">
 <tr>
 <td valign="top" width="50%">
@@ -40,13 +44,19 @@ base:         Davao, Philippines
 
 ## ⚡ Frontend & Mobile
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,tailwind,html,css,javascript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,vue,tailwind,html,css,javascript&theme=dark" />
 
 <br><br>
 
 ## 🛠️ Backend & Data
 
-<img src="https://skillicons.dev/icons?i=python,php,mysql,firebase,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,php,nodejs,mysql,firebase,supabase&theme=dark" />
+
+<br><br>
+
+## 🧰 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 
 </div>
 
@@ -55,3 +65,9 @@ base:         Davao, Philippines
 <div align="center">
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=jaeqwrty.jaeqwrty&left_color=%23000000&right_color=%23FFD700&left_text=profile%20views" />
+
+<br><br>
+
+<img src="footer-banner.svg" width="100%" />
+
+</div>
