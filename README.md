@@ -46,13 +46,9 @@ base:         Davao, Philippines
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,vue,tailwind,html,css,javascript&theme=dark" />
 
-<br><br>
-
 ## 🛠️ Backend & Data
 
 <img src="https://skillicons.dev/icons?i=python,php,nodejs,mysql,firebase,supabase&theme=dark" />
-
-<br><br>
 
 ## 🧰 Tools
 
