@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header-banner.svg" width="100%" />
+<img src="header-banner.svg" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Butcherman&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Mobile+Developer;Machine+Learning+Enthusiast;Based+in+Davao%2C+Philippines;Always+building+something+new" alt="Typing SVG" />
 
@@ -62,6 +62,6 @@ base:         Davao, Philippines
 
 <br><br>
 
-<img src="assets/footer-banner.svg" width="100%" />
+<img src="footer-banner.svg" width="100%" />
 
 </div>
