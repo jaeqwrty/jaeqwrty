@@ -1,9 +1,6 @@
 <div align="center">
 
 <img src="header-banner.svg" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Butcherman&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Mobile+Developer;Machine+Learning+Enthusiast;Based+in+Davao%2C+Philippines;Always+building+something+new" alt="Typing SVG" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:000000&height=3&width=100%" />
