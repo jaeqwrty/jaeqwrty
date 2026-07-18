@@ -45,7 +45,7 @@ base:         Davao, Philippines
 
 ## 🧰 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,jupyter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
 
 </div>
 
