@@ -37,11 +37,11 @@ base:         Davao, Philippines
 
 ## ⚡ Frontend & Mobile
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,vue,tailwind,html,css,javascript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,tailwind,html,css,javascript&theme=dark" />
 
 ## 🛠️ Backend & Data
 
-<img src="https://skillicons.dev/icons?i=python,php,nodejs,mysql,firebase,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,php,nodejs,mysql,firebase&theme=dark" />
 
 ## 🧰 Tools
 
