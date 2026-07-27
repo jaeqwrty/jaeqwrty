@@ -30,30 +30,8 @@ base:         Davao, Philippines
 
 <div align="center">
 
-### 💭 Vibe Check
+### 🎀 Mood Board
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="180" />
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="180" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:000000&height=3&width=100%" />
-
-<div align="center">
-
-## ⚡ Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,tailwind,typescript,javascript&theme=dark" />
-
-## 🛠️ Backend & Data
-<img src="https://skillicons.dev/icons?i=python,php,nodejs,mysql,firebase&theme=dark" />
-
-## 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FFD700&height=3&width=100%" />
-
-<div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=jaeqwrty.jaeqwrty&left_color=%23000000&right_color=%23FFD700&left_text=profile%20views" />
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="70" />
+<img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="70" />
+<img
