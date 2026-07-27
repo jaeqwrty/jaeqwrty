@@ -43,13 +43,15 @@ base:         Davao, Philippines
 
 <div align="center">
 
-## ⚡ Frontend & Mobile
+## 🧰 Tech Stack
+
+**Frontend & Mobile**
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,tailwind,typescript,javascript&theme=dark" />
 
-## 🛠️ Backend & Data
+**Backend & Data**
 <img src="https://skillicons.dev/icons?i=python,php,nodejs,mysql,firebase&theme=dark" />
 
-## 🧰 Tools
+**Tools**
 <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
 
 </div>
