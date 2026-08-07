@@ -2,31 +2,40 @@
 <img src="header-banner.svg" width="100%" />
 </div>
 
-<table align="center">
+<div align="center">
+
+### 🦇 Hey, I'm Jay
+
+`🎓 Student Developer`&nbsp;&nbsp;·&nbsp;&nbsp;`📱 Flutter & Dart`&nbsp;&nbsp;·&nbsp;&nbsp;`🤖 Machine Learning`&nbsp;&nbsp;·&nbsp;&nbsp;`📍 Davao, Philippines`
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FFD700&height=3&width=100%" />
+
+<table align="center" width="100%">
 <tr>
 <td valign="top" width="50%">
 
-### 🦇 Quick Info
-```yaml
-alias:        Jay
-role:         Student Developer
-specialty:    Flutter & Dart
-side_quest:   Machine Learning
-base:         Davao, Philippines
-```
+#### 🔭 Building
+Mobile apps with Flutter
+
+#### 🌱 Learning
+Machine Learning
+
 </td>
 <td valign="top" width="50%">
 
-### 🌃 Currently
-- 🔭 Building mobile apps with Flutter
-- 🌱 Learning Machine Learning
-- 🤝 Open to collaborating on projects
-- 💬 Feel free to reach out
+#### 🤝 Open To
+Collaborating on projects
+
+#### 💬 Reach Me
+Feel free to say hi anytime
+
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FFD700&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:000000&height=3&width=100%" />
 
 <div align="center">
 
@@ -39,15 +48,13 @@ base:         Davao, Philippines
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:000000&height=3&width=100%" />
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FFD700&height=3&width=100%" />
 
 <div align="center">
 
 ## 🧰 Tech Stack
 
-**Frontend & Mobile**  
+**Frontend & Mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -55,20 +62,18 @@ base:         Davao, Philippines
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Backend & Data**  
+**Backend & Data**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**Tools & Platforms**  
+**Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-
-</div>
 
 </div>
 
