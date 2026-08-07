@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=38&duration=3500&pause=1200&color=F7A8B8&center=true&vCenter=true&width=900&height=70&lines=Hello+I%27m+Jay+Esmalla;Computer+Science+Student;Flutter+Developer;Machine+Learning+Enthusiast;Web+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=38&duration=3500&pause=1200&color=F7A8B8&center=true&vCenter=true&width=900&height=70&lines=Hello+I%27m+Jay+Esmalla;Flutter+Developer;Machine+Learning+Enthusiast;Web+Developer" alt="Typing SVG" />
 
 </div>
 
