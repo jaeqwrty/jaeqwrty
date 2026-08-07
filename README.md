@@ -72,40 +72,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-# 📊 GitHub Stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jaeqwrty&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeqwrty&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🔥 GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=jaeqwrty&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaeqwrty&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 <div align="center">
 
 # 🐍 Contribution Snake
