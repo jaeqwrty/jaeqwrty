@@ -96,16 +96,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=jaeqwrty&style=for-the-badge&color=blueviolet"/>
-
-### ✨ *Thanks for stopping by!*
-
-<img src="https://media.tenor.com/ICOgUNjpvO0PCAAAAi/cat.gif" width="90"/>
-
-*"Keep learning, keep building, and enjoy the journey."* 💜
-
-</div>
