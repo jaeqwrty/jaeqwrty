@@ -32,14 +32,6 @@
 
 <br clear="right"/>
 
----
-
-<div align="center">
-
-# 💻 Tech Stack
-
-</div>
-
 <div align="center">
 
 # 🐍 Contribution Snake
