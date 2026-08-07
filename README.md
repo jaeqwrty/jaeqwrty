@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=38&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=Hello%2C+I'm+Jay+Esmalla+%F0%9F%91%8B;Computer+Science+Student;Flutter+Developer;Machine+Learning+Enthusiast;Web+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=38&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=Hello%2C+I'm+Jay+Esmalla" alt="Typing SVG" />
 
 📍 **Davao, Philippines**
 
