@@ -1,9 +1,11 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=34&pause=1200&color=F7A8B8&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Jay+%F0%9F%91%8B;Student+Developer;Flutter+%7C+Machine+Learning;Welcome+to+my+GitHub!" alt="Typing SVG"/>
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAi/cat-computer.gif" width="170"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=34&pause=1200&color=F7A8B8&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Jay+%F0%9F%91%8B;Student+Developer;Flutter+%7C+Machine+Learning;Welcome+to+my+GitHub!" />
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/README.md/animated-cat.gif" width="170"/>
 
 ### 🎓 Computer Science Student
+
 ### 📱 Flutter Developer • 🤖 Machine Learning Enthusiast
 
 📍 **Davao, Philippines**
