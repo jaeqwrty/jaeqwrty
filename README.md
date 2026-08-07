@@ -2,7 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=38&duration=3500&pause=1200&color=F7A8B8&center=true&vCenter=true&width=900&height=70&lines=Hello+I%27m+Jay+Esmalla;Flutter+Developer;Machine+Learning+Enthusiast;Web+Developer" alt="Typing SVG" />
 
-</div>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/README.md/animated-cat.gif" width="170"/>
 
@@ -12,6 +11,7 @@
 
 📍 **Davao, Philippines**
 
+</div>
 <p>
 <a href="https://github.com/jaeqwrty">
 <img src="https://img.shields.io/badge/Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
