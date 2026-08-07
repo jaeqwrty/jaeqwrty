@@ -1,78 +1,119 @@
 <div align="center">
 
-# Hi, I'm Jay 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=34&pause=1200&color=F7A8B8&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Jay+%F0%9F%91%8B;Student+Developer;Flutter+%7C+Machine+Learning;Welcome+to+my+GitHub!" alt="Typing SVG"/>
 
-<img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="180"/>
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAi/cat-computer.gif" width="170"/>
 
-### Student Developer • Flutter • Machine Learning
+### 🎓 Computer Science Student
+### 📱 Flutter Developer • 🤖 Machine Learning Enthusiast
 
-`📍 Davao, Philippines`
+📍 **Davao, Philippines**
+
+<p>
+<a href="https://github.com/jaeqwrty">
+<img src="https://img.shields.io/badge/Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
+
+# 🌸 About Me
+
+</div>
+
+<img align="right" width="180" src="https://media.tenor.com/Iie6CKhJQFIAAAAi/dog-puppy.gif"/>
 
 - 🎓 Computer Science student
-- 📱 Building mobile applications with Flutter
-- 🤖 Learning Machine Learning and AI
-- 🚀 Interested in creating useful software
-- 🤝 Open to collaborating on projects
+- 📱 Building cross-platform mobile applications with Flutter
+- 🤖 Currently learning Machine Learning & AI
+- 🚀 Passionate about creating useful software
+- 🤝 Open to collaborations
+- ☕ Coffee + Music + Coding = Perfect Day
+
+<br clear="right"/>
 
 ---
 
-## Tech Stack
+<div align="center">
+
+# 💻 Tech Stack
+
+</div>
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=dart,python,ts,js,java" />
+<p>
+<img src="https://skillicons.dev/icons?i=dart,python,java,js,ts" />
+</p>
 
 ### Frameworks
 
-<img src="https://skillicons.dev/icons?i=flutter,react,vite" />
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,react,vite,nodejs" />
+</p>
 
-### Backend & Database
+### Database & Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,mysql" />
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql" />
+</p>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman" />
+</p>
 
 </div>
 
 ---
 
-## Currently
-
-- 🔭 Building Flutter projects
-- 🌱 Exploring Machine Learning
-- 💡 Learning modern web technologies
-- ☕ Coffee-powered coding sessions
-
----
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="170"/>
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="170"/>
-<img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="170"/>
+# 📊 GitHub Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jaeqwrty&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeqwrty&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
 ---
 
-## GitHub Activity
+<div align="center">
+
+# 🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=jaeqwrty&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
 
 <div align="center">
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaeqwrty&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaeqwrty/jaeqwrty/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaeqwrty/jaeqwrty/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jaeqwrty/jaeqwrty/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaeqwrty/jaeqwrty/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaeqwrty/jaeqwrty/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/jaeqwrty/jaeqwrty/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -81,6 +122,24 @@
 
 <div align="center">
 
-Thanks for stopping by! ⭐
+# 🐾 A Little Break
+
+<img src="https://media.tenor.com/l4pTfx2qLszoacZRSAAAAi/dog.gif" width="130"/>
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAi/cat-computer.gif" width="130"/>
+<img src="https://media.tenor.com/Iie6CKhJQFIAAAAi/dog-puppy.gif" width="130"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=jaeqwrty&style=for-the-badge&color=blueviolet"/>
+
+### ✨ *Thanks for stopping by!*
+
+<img src="https://media.tenor.com/ICOgUNjpvO0PCAAAAi/cat.gif" width="90"/>
+
+*"Keep learning, keep building, and enjoy the journey."* 💜
 
 </div>
