@@ -26,11 +26,6 @@ about_me:
   passion: "💡 Solving real-world problems through software"
   status: "🤝 Open to collaborations and exciting opportunities"
 ```
-
-<br>
-
-</div>
-
 <br>
 
 ## 🐍 Contribution Snake
