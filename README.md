@@ -11,7 +11,7 @@
 </div>
 
 <br>
-I'm a **Computer Science** student passionate about creating modern, user-friendly applications and exploring the exciting world of **Artificial Intelligence**. I enjoy transforming ideas into practical software while continuously learning new technologies.
+I'm a Computer Science student passionate about creating modern, user-friendly applications and exploring the exciting world of **Artificial Intelligence**. I enjoy transforming ideas into practical software while continuously learning new technologies.
 
 ```yaml
 about_me:
