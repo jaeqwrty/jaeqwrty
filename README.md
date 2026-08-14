@@ -29,25 +29,6 @@ about_me:
 
 <br>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css,react,python,cpp,java,git,github,figma,vscode&perline=8" alt="Tech Stack" />
-
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jaeqwrty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaeqwrty&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeqwrty&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
 </div>
 
 <br>
