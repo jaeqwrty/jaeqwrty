@@ -60,11 +60,3 @@ about_me:
 -->
 
 </div>
-
-<br>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=jaeqwrty&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
